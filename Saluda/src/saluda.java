@@ -3,10 +3,15 @@
 
 import java.util.Scanner;
 public class saluda {
-
+	public class pivon {
+		int notazas; 
+		String nombre;
+		
+	}
 
 public static void main(String[] args) {
 System.out.println("HOLA");	
+
 	int numeroAcierto=17;
 	int numeroErrores=3;
 	int numeropreguntas=20;
@@ -39,7 +44,7 @@ System.out.println(calificacion);
 break;
     case 7:
     case 8:
-        calificacion = "NOTABLE"; 
+        calificacion = "NOTABLEs"; 
         System.out.println(calificacion);
 break;
     case 9: 

@@ -44,7 +44,7 @@ break;
 break;
     case 9: 
     case 10:
-calificacion = "SOBRESALIENTE"; 
+calificacion = "SOBRESALIENTES"; 
 System.out.println(calificacion);
 break;
     default:

@@ -49,7 +49,7 @@ System.out.println(calificacion);
 break;
     default:
         System.out.println("Se ha introducido una nota errónea");
-calificacion = "CALIFICACIÓN ERRÓNEA";   
+calificacion = "CALIFICACIÓN no VALIDA"; 
 
 	}	
 
